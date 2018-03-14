@@ -17,6 +17,14 @@
           <option name="port" value="10022" />
         </fileTransfer>
       </webServer>
+      <webServer id="412745d9-4849-42c8-98f0-c05285eccb94" name="drmt_wp" url="http://mkcmkcmkc@sv2034.xserver.jp">
+        <fileTransfer host="mkcmkcmkc@sv2034.xserver.jp" port="10022" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/mkcmkcmkc/drmt.jp/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="10022" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
