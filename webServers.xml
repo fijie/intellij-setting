@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1f19f33b-9c70-4a83-8553-f8fc406ccf65" name="drmt" url="http://mkcmkcmkc@sv2034.xserver.jp">
+        <fileTransfer host="mkcmkcmkc@sv2034.xserver.jp" port="10022" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="10022" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
