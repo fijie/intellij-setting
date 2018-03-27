@@ -9,6 +9,14 @@
           <option name="port" value="10022" />
         </fileTransfer>
       </webServer>
+      <webServer id="58c119dd-4ad5-4608-8c7d-a74834142801" name="mkcmkcmkc(xserver)" url="http://mkcmkcmkc@sv2034.xserver.jp">
+        <fileTransfer host="mkcmkcmkc@sv2034.xserver.jp" port="10022" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/mkcmkcmkc" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="10022" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
