@@ -1,11 +1,6 @@
 <application>
   <component name="libraryTable">
     <library name="bootstrap" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__netdna.bootstrapcdn.com_bootstrap_3.0.3_js_bootstrap.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__netdna.bootstrapcdn.com_bootstrap_3.0.3_js_bootstrap.js" />
       </CLASSES>
@@ -15,9 +10,6 @@
       <properties>
         <option name="frameworkName" value="jQuery" />
         <option name="frameworkVersion" value="" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_jquery_1_jquery.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_jquery_1_jquery.js" />
@@ -31,9 +23,6 @@
       <properties>
         <option name="frameworkName" value="Modernizr" />
         <option name="frameworkVersion" value="2.7.1" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_modernizr_2.7.1_modernizr.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_modernizr_2.7.1_modernizr.js" />
