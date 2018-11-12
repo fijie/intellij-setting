@@ -17,6 +17,14 @@
           <option name="port" value="10022" />
         </fileTransfer>
       </webServer>
+      <webServer id="b6823966-a487-46ff-8127-1cea6fb83f3c" name="globalcare.xtwo.jp" url="http://globalcare.xtwo.jp">
+        <fileTransfer host="globalcare.xtwo.jp" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
