@@ -1,7 +1,6 @@
 <code_scheme name="Wordpress" version="173">
   <codeStyleSettings language="HTML">
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
@@ -11,7 +10,6 @@
     <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
