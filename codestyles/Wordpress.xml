@@ -1,9 +1,13 @@
 <code_scheme name="Wordpress" version="173">
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  </HTMLCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="HTML">
+    <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="SMART_TABS" value="true" />
     </indentOptions>
@@ -16,6 +20,7 @@
     <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <indentOptions>
       <option name="SMART_TABS" value="true" />
     </indentOptions>
