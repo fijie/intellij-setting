@@ -1,6 +1,6 @@
 <templateSet group="PHP">
-  <template name="itar" value="for ($INDEX$ = 0; $INDEX$ &lt; $ARRAY$; $INDEX$++) {&#10;  $END$&#10;}" description="for" toReformat="false" toShortenFQNames="true">
-    <variable name="INDEX" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="itar" value="for ($ITERABLE$ = 0; $ITERABLE$ &lt; $ARRAY$; $ITERABLE$++) {&#10;  $END$&#10;}" description="for" toReformat="false" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ARRAY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Class Member" value="true" />
