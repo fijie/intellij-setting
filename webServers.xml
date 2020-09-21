@@ -28,7 +28,7 @@
       <webServer id="ff1d1123-e29e-4491-9e29-73ea6bf0311b" name="NNN" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="330b7773-436f-4363-bf91-e400cd60c374" name="Xserver-KK" url="http://sv8226.xserver.jp">
+      <webServer id="330b7773-436f-4363-bf91-e400cd60c374" name="Xserver-KK" url="">
         <fileTransfer host="sv8226.xserver.jp" port="10022" privateKey="$USER_HOME$/.ssh/kazukataoka.key" rootFolder="/home/kazukataoka" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
