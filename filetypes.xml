@@ -8,6 +8,7 @@
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="1512289328csv" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping pattern="_dental-technician-members" type="SCSS" />
       <mapping ext="gz" type="SCSS" />
       <mapping ext="dist" type="XML" />
     </extensionMap>
