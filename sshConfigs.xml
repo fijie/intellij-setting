@@ -10,6 +10,9 @@
       <sshConfig host="sv8226.xserver.jp" id="92e66176-b2ee-4622-a035-c4bf5e12e65c" keyPath="$USER_HOME$/.ssh/kazukataoka.key" port="10022" customName="Xserver-KK" nameFormat="CUSTOM" username="kazukataoka">
         <option name="customName" value="Xserver-KK" />
       </sshConfig>
+      <sshConfig host="mkcmkcmkc@sv2034.xserver.jp" id="b1092864-3b57-4378-96ce-191451e2bf8c" keyPath="$USER_HOME$/.ssh/id_rsa" port="10022" customName="drmt_wp" nameFormat="CUSTOM">
+        <option name="customName" value="drmt_wp" />
+      </sshConfig>
     </configs>
   </component>
 </application>
