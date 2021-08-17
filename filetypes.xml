@@ -2,11 +2,11 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="index-backup" type="PHP" />
+      <mapping pattern="koji-sugiura-mail" type="PLAIN_TEXT" />
       <mapping pattern="1512289328csv" type="PLAIN_TEXT" />
       <mapping pattern="htaccess" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="koji-sugiura-mail" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="_dental-technician-members" type="SCSS" />
       <mapping ext="gz" type="SCSS" />
       <mapping ext="dist" type="XML" />
