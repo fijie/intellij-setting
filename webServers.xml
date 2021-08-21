@@ -2,19 +2,17 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="412745d9-4849-42c8-98f0-c05285eccb94" name="drmt_wp" url="http://mkcmkcmkc@sv2034.xserver.jp">
-        <fileTransfer host="mkcmkcmkc@sv2034.xserver.jp" port="10022" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/mkcmkcmkc/drmt.jp/" accessType="SFTP" keyPair="true">
+        <fileTransfer rootFolder="/home/mkcmkcmkc/drmt.jp/" accessType="SFTP" host="mkcmkcmkc@sv2034.xserver.jp" port="10022" sshConfigId="ed2f1cef-d26a-4d38-860e-0cb91fde73df" sshConfig="drmt_wp" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="10022" />
         </fileTransfer>
       </webServer>
       <webServer id="58c119dd-4ad5-4608-8c7d-a74834142801" name="mkcmkcmkc(xserver)" url="http://mkcmkcmkc@sv2034.xserver.jp">
-        <fileTransfer host="mkcmkcmkc@sv2034.xserver.jp" port="22" rootFolder="/home/mkcmkcmkc" accessType="SFTP">
+        <fileTransfer rootFolder="/home/mkcmkcmkc" accessType="SFTP" host="mkcmkcmkc@sv2034.xserver.jp" port="22" sshConfigId="b84e9f65-ca35-44ce-91d5-7403f51d0ec6" sshConfig="mkcmkcmkc(xserver)">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="b6823966-a487-46ff-8127-1cea6fb83f3c" name="globalcare.xtwo.jp" url="http://globalcare.xtwo.jp">
@@ -22,19 +20,10 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="ff1d1123-e29e-4491-9e29-73ea6bf0311b" name="NNN" url="http://localhost">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="330b7773-436f-4363-bf91-e400cd60c374" name="Xserver-KK" url="">
-        <fileTransfer host="sv8226.xserver.jp" port="10022" privateKey="$USER_HOME$/.ssh/kazukataoka.key" rootFolder="/home/kazukataoka" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="10022" />
-        </fileTransfer>
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
     </option>
   </component>
