@@ -22,9 +22,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="ff1d1123-e29e-4491-9e29-73ea6bf0311b" name="NNN" url="http://localhost">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
     </option>
   </component>
 </application>
