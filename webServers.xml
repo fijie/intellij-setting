@@ -1,24 +1,10 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="412745d9-4849-42c8-98f0-c05285eccb94" name="drmt_wp" url="http://mkcmkcmkc@sv2034.xserver.jp">
-        <fileTransfer rootFolder="/home/mkcmkcmkc/drmt.jp/" accessType="SFTP" host="mkcmkcmkc@sv2034.xserver.jp" port="10022" sshConfigId="ed2f1cef-d26a-4d38-860e-0cb91fde73df" sshConfig="drmt_wp" keyPair="true">
+      <webServer id="9e0dfef0-ef74-4f5a-a74b-acb7e76b69bc" name="kazukataoka" url="http://sv8226.xserver.jp">
+        <fileTransfer rootFolder="/home/kazukataoka/gtp-m.com/" accessType="SFTP" host="sv8226.xserver.jp" port="10022" sshConfigId="92e66176-b2ee-4622-a035-c4bf5e12e65c" sshConfig="Xserver-KK" keyPair="true">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="58c119dd-4ad5-4608-8c7d-a74834142801" name="mkcmkcmkc(xserver)" url="http://mkcmkcmkc@sv2034.xserver.jp">
-        <fileTransfer rootFolder="/home/mkcmkcmkc" accessType="SFTP" host="mkcmkcmkc@sv2034.xserver.jp" port="22" sshConfigId="b84e9f65-ca35-44ce-91d5-7403f51d0ec6" sshConfig="mkcmkcmkc(xserver)">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="b6823966-a487-46ff-8127-1cea6fb83f3c" name="globalcare.xtwo.jp" url="http://globalcare.xtwo.jp">
-        <fileTransfer host="globalcare.xtwo.jp" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
