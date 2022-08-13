@@ -7,7 +7,7 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="mkcmkcmkc@sv2034.xserver.jp" id="b84e9f65-ca35-44ce-91d5-7403f51d0ec6" port="22" customName="mkcmkcmkc(xserver)" nameFormat="CUSTOM" username="mkcmkcmkc">
         <option name="customName" value="mkcmkcmkc(xserver)" />
       </sshConfig>
-      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="sv8226.xserver.jp" id="92e66176-b2ee-4622-a035-c4bf5e12e65c" keyPath="$USER_HOME$/.ssh/kazukataoka.key" port="10022" customName="Xserver-KK" nameFormat="CUSTOM" username="kazukataoka">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="sv13036.xserver.jp" id="92e66176-b2ee-4622-a035-c4bf5e12e65c" keyPath="$USER_HOME$/.ssh/kazukataoka.key" port="10022" customName="Xserver-KK" nameFormat="CUSTOM" username="kazukataoka">
         <option name="customName" value="Xserver-KK" />
       </sshConfig>
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="mkcmkcmkc@sv2034.xserver.jp" id="b1092864-3b57-4378-96ce-191451e2bf8c" keyPath="$USER_HOME$/.ssh/id_rsa" port="10022" customName="drmt_wp" nameFormat="CUSTOM">
